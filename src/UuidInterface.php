@@ -1,7 +1,7 @@
 <?php
 declare(strict_types = 1);
 
-namespace MrPrompt\Silex;
+namespace SilexFriends\Uuid;
 
 /**
  * Uuid Service Provider Interface

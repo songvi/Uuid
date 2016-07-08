@@ -1,16 +1,16 @@
 {
-  "name" : "mrprompt/silex-uuid",
+  "name" : "SilexFriends/uuid",
   "description" : "Silex Uuid Provider",
   "license" : "MIT",
   "type": "library",
   "autoload" : {
     "psr-4" : {
-      "MrPrompt\\Silex\\": "src/"
+      "SilexFriends\\Uuid\\": "src/"
     }
   },
   "autoload-dev" : {
     "psr-4" : {
-      "MrPrompt\\Silex\\Tests\\": "tests/"
+      "SilexFriends\\Uuid\\Tests\\": "tests/"
     }
   },
   "authors" : [

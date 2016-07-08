@@ -1,9 +1,9 @@
 <?php
 declare(strict_types = 1);
 
-namespace MrPrompt\Silex\Tests;
+namespace SilexFriends\Uuid\Tests;
 
-use MrPrompt\Silex\Uuid;
+use SilexFriends\Uuid\Uuid;
 use PHPUnit_Framework_TestCase;
 use Silex\Application;
 

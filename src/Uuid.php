@@ -1,7 +1,7 @@
 <?php
 declare(strict_types = 1);
 
-namespace MrPrompt\Silex;
+namespace SilexFriends\Uuid;
 
 use Ramsey\Uuid\Uuid as UuidGenerator;
 use Silex\Application;
