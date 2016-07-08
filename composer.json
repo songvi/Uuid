@@ -1,5 +1,5 @@
 {
-  "name" : "SilexFriends/Uuid",
+  "name" : "silexfriends/uuid",
   "description" : "Silex Uuid Provider",
   "license" : "MIT",
   "type": "library",
