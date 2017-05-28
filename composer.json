@@ -1,5 +1,5 @@
 {
-  "name" : "mrprompt/silex-uuid",
+  "name" : "songvi/silex-uuid",
   "description" : "Silex Uuid Provider",
   "license" : "MIT",
   "type": "library",
