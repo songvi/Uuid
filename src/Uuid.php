@@ -4,8 +4,8 @@ declare(strict_types = 1);
 namespace SilexFriends\Uuid;
 
 use Ramsey\Uuid\Uuid as UuidGenerator;
-use Silex\Application;
-use Silex\ServiceProviderInterface;
+use Pimple\Application;
+use Pimple\ServiceProviderInterface;
 
 /**
  * Universally Unique Identifier Service Provider
