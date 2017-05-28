@@ -19,7 +19,7 @@ class Uuid implements UuidInterface, ServiceProviderInterface
      * @see \Silex\ServiceProviderInterface::register()
      * @param Application $app
      */
-    public function register(Application $app)
+    public function register(Container $app)
     {
         $service = $this;
 
